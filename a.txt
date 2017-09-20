@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a txt my2017
+=======
+hhekeo
+>>>>>>> 5e632215da98e86ca1c5532ec1a3bf4d7a05a2a5
